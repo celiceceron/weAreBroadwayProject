@@ -1,5 +1,5 @@
 # weAreBroadwayProject
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/celiceceron/memoryProject/blob/master/licence)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/celiceceron/weAreBroadwayProject/blob/master/licence)
 
 # About the project
 This project is part of Codecademy's Bootcamp.
