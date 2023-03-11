@@ -3,7 +3,7 @@
 
 # About the project
 This project is part of Codecademy's Bootcamp.
-During the studies on fundamentals of CSS, the site was created to demonstrate how the box model works.<br>
+During the studies on fundamentals of CSS, the site was created to demonstrate how the positioning of elements works.<br>
 https://wearebroadwayproject.netlify.app/
 
 ## Gif demonstration
