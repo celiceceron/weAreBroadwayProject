@@ -7,7 +7,7 @@ During the studies on fundamentals of CSS, the site was created to demonstrate h
 https://wearebroadwayproject.netlify.app/
 
 ## Gif demonstration
-![Web 1]()
+![Web 1](https://github.com/celiceceron/weAreBroadwayProject/blob/3dd2a39793e398d00a727d2336c9f1378691ea84/web-page.gif)
 
 
 # Technologies and tools I use
